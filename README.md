@@ -2,31 +2,31 @@
 
 <div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://substack.com/@aliphatic?r=1n1u2b&utm_campaign=profile&utm_medium=profile-page"> ALIPHATIC D. ‎فؤاد</a></div>
     
-<h1>Welcome To ALIPHATIC'S Profile👽</h1>
+<h1>Welcome To Rukayat Profile👽</h1>
 
 ###   **My current role in tech...** </h2>
-       { Engineering Manager } 
+       { Product Manager } 
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/adegoke-fuad-ajibola/"> <img src="images/linkedin.png" width="60" /> </a>
-<a href="https://twitter.com/ALIPHATIC_F"> <img src="images/twitter.png" width="60" /> </a>
-<a href="https://www.instagram.com/aliphatic_hyd/"> <img src="images/ig.png" width="70" /> </a>
+<a href="https://www.linkedin.com/in/rukayatissa/"> <img src="images/linkedin.png" width="60" /> </a>
+<a href="https://twitter.com/decentralisedp"> <img src="images/twitter.png" width="60" /> </a>
+<a href="https://www.instagram.com/issa_rukayat/"> <img src="images/ig.png" width="70" /> </a>
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
 #### About Me
-Here are some basic things to know about ALIPHATIC: 👽
+Here are some basic things to know about Rukayat: 👽
 
 - 🔭 I’m currently exploring the Space Tech Ecosystem, 
 - 🌱 I’m a Systems Engineering Major,
 - 👯 I’m looking for people to join the communities I'm building.
 - 🤔 I can help you with getting into open-source,
 - 💬 Ask me about anything, 🌚
-- 📫 How to reach me; Email: adegokefuad1@gmail.com, Phone: +2347053539948,
+- 📫 How to reach me; Email: issarukayat4@gmail.com, Phone: +2348136250561,
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Gaming, Swimming, & Writing.
+- ⚡ Fun fact: I love Reading, and Researching.
   
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ALIPHATICHYD&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
+[![My github stats](https://github.com/IssaRukayat/IssaRukayat/edit/main/README.md) 
 
 #### My Core Languages
 
