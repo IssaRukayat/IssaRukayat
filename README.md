@@ -23,7 +23,7 @@ Here are some basic things to know about Rukayat: 👽
 - 🤔 I can help you with getting into open-source,
 - 💬 Ask me about anything, 🌚
 - 📫 How to reach me; Email: issarukayat4@gmail.com, Phone: +2348136250561,
-- 😄 Pronouns: He/Him/His,
+- 😄 Pronouns: she/Her,
 - ⚡ Fun fact: I love Reading, and Researching.
   
 [![My github stats](https://github.com/IssaRukayat/IssaRukayat/edit/main/README.md) 
