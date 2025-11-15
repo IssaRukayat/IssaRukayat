@@ -22,7 +22,8 @@
 <a href="https://www.linkedin.com/in/rukayatissa/"> <img src="images/linkedin.png" width="60" /> </a>
 <a href="https://twitter.com/decentralisedpm"> <img src="images/twitter.png" width="60" /> </a>
 <a href="https://www.instagram.com/issa_rukayat/"> <img src="images/ig.png" width="70" /> </a>
-<img align="right" alt="Coding Girl" width="370" src="https://i.pinimg.com/originals/4a/0f/45/4a0f45d5026a756d34b93cf9f5f19847.gif"/>
+<img align="right" alt="Coding Girl" width="370" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNjbnZhbjJ4NXZocDNkNThmbHFhNmg1Z3k1dGJlZG4xMHQxaTN0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif"/>
+
 
 About Me
 
